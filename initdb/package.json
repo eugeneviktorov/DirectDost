@@ -1,0 +1,13 @@
+{
+  "name": "initdb_app",
+  "version": "1.0.0",
+  "description": "application for initialization postgres database",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pg": "^8.10.0"
+  }
+}
