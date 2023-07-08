@@ -11,7 +11,8 @@
 ### 2. Install the modules by running the `npm install` command.
 ### 3. Run the index.js file to create tables in the `node index.js` database.
 ### 4. Go to the client folder and also install the modules by running the `npm install` command.
-### 5. Go to the server folder, install the modules with the `npm install` command.
+### 5. Go to the server folder along the path: server/src/database/connection.ts and edit the file to include information for connecting to the postgres database.
+### 6. Server folder, install the modules with the `npm install` command.
 
 <br>
 
@@ -28,7 +29,6 @@
 ### Smakovsky Ilya - rc.cun@mail.ru / Backend
 
 <br>
-
 
 # Application screenshots
 <img src="README/1.jpg" width="200px"><br>
